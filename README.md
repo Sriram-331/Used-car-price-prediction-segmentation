@@ -1,6 +1,6 @@
 #🚗 Used-car-price-prediction-segmentation
 
-Developed a used car analytics system that predicts vehicle resale prices and identifies market segments through machine learning, leveraging XGBoost, feature engineering, and unsupervised clustering techniques.
+###Developed a used car analytics system that predicts vehicle resale prices and identifies market segments through machine learning, leveraging XGBoost, feature engineering, and unsupervised clustering techniques.
 
 ## 📌 Overview
 
@@ -138,6 +138,6 @@ Performed analysis on:
 ---
 
 ## 👨‍💻 Author
-
+Mukku Sriram
 AI & Machine Learning Project – Used Car Price Prediction and Segmentation
 
