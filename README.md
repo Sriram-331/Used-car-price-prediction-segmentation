@@ -139,5 +139,6 @@ Performed analysis on:
 
 ## 👨‍💻 Author
 Mukku Sriram
-AI & Machine Learning Project – Used Car Price Prediction and Segmentation
+
+
 
